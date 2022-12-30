@@ -9,5 +9,7 @@
 DaffafauzanD/DaffafauzanD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-![giphy](https://user-images.githubusercontent.com/114970828/210109357-d3cc9384-f74b-444b-850d-eaf78ec9bcc3.gif)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/114970828/210109357-d3cc9384-f74b-444b-850d-eaf78ec9bcc3.gif" align="center" height="425"/>
+  <h1>huh?</h1>
+</div>
